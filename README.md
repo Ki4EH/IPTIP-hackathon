@@ -1,6 +1,6 @@
 # Общежитие МИРЭА
 
-[IPTIP logo](https://sun1-18.userapi.com/GZGNwwtEjN_Nf3saROKqgsXAXv3MOkfoBC47ow/mOnal7Y8RLo.jpg)
+![IPTIP logo](https://sun1-18.userapi.com/GZGNwwtEjN_Nf3saROKqgsXAXv3MOkfoBC47ow/mOnal7Y8RLo.jpg)
 
 Команда "Объединение Программистов Здравомыслящих".
 
